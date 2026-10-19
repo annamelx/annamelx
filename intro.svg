@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="142" viewBox="0 0 1100 142" role="img" aria-label="Olá, eu sou a Anna Karolina! Explorando o mundo do código e dos dados">
+<defs><linearGradient id="p" x1="0" x2="1"><stop offset="0" stop-color="#F4A1DB"/><stop offset=".55" stop-color="#E8A6E5"/><stop offset="1" stop-color="#FBBCD8"/></linearGradient></defs>
+<text x="550" y="71" text-anchor="middle" fill="url(#p)" font-family="DejaVu Sans,Arial,sans-serif" font-size="49" font-weight="800">Olá, eu sou a Anna Karolina! <tspan font-size="43">✦</tspan></text>
+<text x="550" y="116" text-anchor="middle" fill="#CDA9D8" font-family="DejaVu Sans Mono,monospace" font-size="22">♥ Explorando o mundo do código e dos dados</text>
+</svg>
