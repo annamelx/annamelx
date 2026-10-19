@@ -78,12 +78,12 @@ Exercícios e práticas de **Programação Orientada a Objetos**.
 
 ## 💌 Entre em contato
 
-- **E-mail:** SEU_EMAIL_AQUI
+- **E-mail:** karolinamelo81@gmail.com
 - **LinkedIn:** [Anna Karolina Melo](https://www.linkedin.com/in/anna-karolina-melo-050a4a331/)
 - **GitHub:** [@annamelx](https://github.com/annamelx)
 
 <div align="center">
 
-<sub>Feito com 💜 por Anna Karolina</sub>
+<sub>Feito por Anna Karolina 💜 </sub>
 
 </div>
