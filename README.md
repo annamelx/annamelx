@@ -41,17 +41,17 @@ Sou **Anna Karolina**, estudante de **Licenciatura em Ciência da Computação n
 
 ## 📌 Projetos em destaque
 
-### 📅 [SistemaAgenda](https://github.com/annamelx/SistemaAgenda)
+### 📅 [EcoanalisesPolicinica]([https://github.com/annamelx/ecoanalises-policlinica-showcase.git])
 
-Sistema de agenda desenvolvido em **Java**.
+Site institucional e plataforma de agendamentos da policlinica ecoanalises.
 
 ### 🎁 [SistemaAmigoSecreto](https://github.com/annamelx/SistemaAmigoSecreto)
 
 Projeto em **Java** para praticar conceitos de lógica e programação.
 
-### ☕ [POO-2024.2](https://github.com/annamelx/POO-2024.2)
+### 📅 [SistemaAgenda](https://github.com/annamelx/SistemaAgenda)
 
-Exercícios e práticas de **Programação Orientada a Objetos**.
+Sistema de agenda desenvolvido em **Java**.
 
 ---
 
