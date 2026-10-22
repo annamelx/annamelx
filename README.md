@@ -41,7 +41,7 @@ Sou **Anna Karolina**, estudante de **Licenciatura em Ciência da Computação n
 
 ## 📌 Projetos em destaque
 
-### 📅 [EcoanalisesPolicinica]([https://github.com/annamelx/ecoanalises-policlinica-showcase.git])
+### 📅 [EcoanalisesPolicinica](https://github.com/annamelx/ecoanalises-policlinica-showcase.git)
 
 Site institucional e plataforma de agendamentos da policlinica ecoanalises.
 
